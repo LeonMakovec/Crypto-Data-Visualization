@@ -1,0 +1,1 @@
+This project focuses on analyzing cryptocurrency data to identify historical trends and gain insights into the behavior of various cryptocurrencies over time. We utilize Python for data analysis and visualization to explore and visualize the cryptocurrency market.
